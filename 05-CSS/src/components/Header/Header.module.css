@@ -1,0 +1,19 @@
+.header {
+  background: goldenrod;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 30px;
+  border-radius: 5px;
+  margin: 10px;
+}
+
+.btn {
+  background-color: goldenrod;
+  outline: none;
+  border: none;
+  padding: 8px 14px;
+  border-radius: 5px;
+  box-shadow: 1px -1px 7px 1px;
+  color: inherit;
+}
