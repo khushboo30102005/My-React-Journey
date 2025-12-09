@@ -1,0 +1,28 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body,
+html {
+  background-color: #111;
+  color: aliceblue;
+}
+
+.count {
+  padding: 40px;
+  margin: 40px;
+  width: 300px;
+  background-color: #413f3f;
+  color: aliceblue;
+  font-size: 40px;
+}
+
+button {
+  padding: 30px;
+  margin: 30px;
+  background-color: #413f3f;
+  color: aliceblue;
+  font-size: larger;
+}
