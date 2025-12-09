@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html,
+body {
+  background-color: #111;
+  color: #fff;
+}
+
+button,
+input {
+  margin: 10px;
+  padding: 10px;
+}
+#box {
+  height: 150px;
+  width: 150px;
+  background-color: cadetblue;
+}
+
+.page1{
+  height: 200px;
+  width: 100vw;
+  background:#767ac5;
+}
+.page2{
+  height: 200px;
+  width: 100vw;
+  background: #aee684;
+}
+.page3{
+  height: 200px;
+  width: 100vw;
+  background: #75ddb5;;
+}
