@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  background-color: black;
+  color: beige;
+}
+input,
+button {
+  margin: 10px;
+  padding: 20px;
+  background-color: rgb(62, 62, 62);
+  color: inherit;
+}
