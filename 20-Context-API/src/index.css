@@ -1,0 +1,32 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  background-color: black;
+  color: white;
+}
+
+.nav-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: darkslateblue;
+  padding: 32px 24px;
+}
+
+.nav2{
+  display: flex;
+  gap: 24px;
+}
+
+button{
+  background-color: #a44fd1;
+  padding: 12px 8px;
+  border: none;
+  outline: none;
+  border-radius: 12px;
+}
